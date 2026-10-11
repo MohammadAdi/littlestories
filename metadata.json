@@ -1,0 +1,6 @@
+{
+  "name": "Little Stories",
+  "description": "Buku harian dan ruang bercerita digital yang hangat, aman, dan menyenangkan untuk anak-anak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
